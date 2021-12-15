@@ -1,0 +1,29 @@
+body{
+    background-color:rgba(216, 209, 200, 0.959) ;
+    text-align: center;
+  }
+  h1{
+    font-weight: lighter;
+    text-align: center;
+    
+  }
+
+  li{
+      font-weight: lighter;
+  }
+
+  ol{
+      list-style-type: numbers;
+  }
+  ul{
+list-style-type: square;
+  }
+  iframe{
+text-align: center;
+  }
+  footer{
+    text-align: center;
+  }
+  h6{
+    font-weight: lighter;
+  }

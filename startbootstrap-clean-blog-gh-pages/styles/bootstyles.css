@@ -1,0 +1,67 @@
+button{
+    orientation: landscape;
+}
+.box1 {
+    background-color: rgb(184, 174, 174);
+    padding: 5px 5px;
+    
+
+}
+
+.box2 {
+    background-color: rgb(184, 174, 174);
+    padding: 5px 5px;
+
+}
+
+.box3 {
+    background-color: rgb(184, 174, 174);;
+    z-index: 99;
+    padding: 5px 5px;
+
+}
+
+.box4 {
+    background-color: rgb(184, 174, 174);;
+    padding: 5px 5px;
+    
+
+}
+.menu{ 
+    display: flex; 
+    border: solid 3px black;
+    background-color: lightblue;
+    color: white;
+    flex-direction: row;
+
+}
+.menu li{
+    text-align: center;
+    padding: 5px 5px;
+    height: 50 px;
+    flex-grow: 3;
+    list-style: none;
+}
+h1{
+    text-align: center;
+    padding: 50px 100px;
+}
+.menu li a {
+    color: black;
+    text-decoration: rgb(38, 111, 136);
+    font-size: xx-large;
+}
+
+.menu li a:hover {
+    font-size: 32px;
+    color: lightcoral;
+}
+body{
+    background-color: lightcyan;
+    text-align: center;
+    
+}
+footer{
+text-align: center;
+
+}
